@@ -4,7 +4,7 @@ Data are already demultiplexed, trimmed for adapter, and where a sample was sequ
 
 All analyses conducted here: /newhome/bzzjrb/R.temp/
 
-Draft Ref genome from [Sanger](ftp://ngs.sanger.ac.uk/scratch/project/grit/VGP/aRanTem1/)
+Draft Ref genome from [Sanger](ftp://ngs.sanger.ac.uk/scratch/project/grit/VGP/aRanTem1)
 
 
 ## Map to the genome
