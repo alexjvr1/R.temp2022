@@ -6,6 +6,8 @@ All analyses conducted here: /newhome/bzzjrb/R.temp/
 
 Draft Ref genome from [Sanger](ftp://ngs.sanger.ac.uk/scratch/project/grit/VGP/aRanTem1)
 
+[Test](https://github.com/alexjvr1/Velocity2020/blob/master/README.md#2a-map-to-reference-genome)
+
 
 ## Map to the genome
 
